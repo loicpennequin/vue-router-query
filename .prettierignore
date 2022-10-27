@@ -1,0 +1,4 @@
+dist
+node_modules
+vercel
+src/typings/components.d.ts
